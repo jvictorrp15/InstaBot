@@ -1,7 +1,7 @@
 # InstaBot
 O código é uma implementação de um bot para interagir com o Instagram usando a biblioteca Selenium em Python, realizando login, navegando por hashtags e realizando ações como curtir e comentar em fotos.
 
---x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--
+--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--
 
 Esse é um código em Python que utiliza a biblioteca Selenium para automatizar interações com o Instagram. Ele cria uma classe BotInstagram que contém métodos para entrar em um link, fazer login, pegar links de fotos, dar like e comentar em fotos.
 
